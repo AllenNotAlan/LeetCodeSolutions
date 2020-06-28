@@ -19,7 +19,7 @@ class Solution(object):
     def test(self,nums,val):
 
         if val not in nums:
-            return "[]"
+            return len(nums)
 
         while val in nums:
             for i in nums:
