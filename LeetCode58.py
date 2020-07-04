@@ -40,5 +40,5 @@ class Solution(object):
         for letters in word:
             res+=1
         return res
-
+        
     print(lengthOfLastWord(1, " a"))
