@@ -27,9 +27,7 @@ class Solution(object):
 
     test1 = [1,2,3,4]
     test2 = [1,1,1,1,1]
-
     test3 = []
-
     test4 = [3,1,2,10,1]
 
 
@@ -37,5 +35,3 @@ class Solution(object):
     # print(testSolution(1,test2))
     # print(testSolution(1,test3))
     # print(testSolution(1,test4))
-
-    fasterSolution(1,test1)
