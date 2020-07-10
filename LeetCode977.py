@@ -17,10 +17,8 @@ class Solution(object):
         :rtype: List[int]
         """
         count = 0
-        while True:
+        while count < len(A) - 1:
             A[count] *= A[count]
-            if count == len(A)-1:
-                break
             count += 1
 
         A.sort()
