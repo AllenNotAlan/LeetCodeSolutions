@@ -1,0 +1,13 @@
+C:\Users\allen\Desktop\CSharp\LeetCode7\bin\Debug\netcoreapp3.1\LeetCode7.exe
+C:\Users\allen\Desktop\CSharp\LeetCode7\bin\Debug\netcoreapp3.1\LeetCode7.deps.json
+C:\Users\allen\Desktop\CSharp\LeetCode7\bin\Debug\netcoreapp3.1\LeetCode7.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\LeetCode7\bin\Debug\netcoreapp3.1\LeetCode7.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\LeetCode7\bin\Debug\netcoreapp3.1\LeetCode7.dll
+C:\Users\allen\Desktop\CSharp\LeetCode7\bin\Debug\netcoreapp3.1\LeetCode7.pdb
+C:\Users\allen\Desktop\CSharp\LeetCode7\obj\Debug\netcoreapp3.1\LeetCode7.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\LeetCode7\obj\Debug\netcoreapp3.1\LeetCode7.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\LeetCode7\obj\Debug\netcoreapp3.1\LeetCode7.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\LeetCode7\obj\Debug\netcoreapp3.1\LeetCode7.dll
+C:\Users\allen\Desktop\CSharp\LeetCode7\obj\Debug\netcoreapp3.1\LeetCode7.pdb
+C:\Users\allen\Desktop\CSharp\LeetCode7\obj\Debug\netcoreapp3.1\LeetCode7.genruntimeconfig.cache
+C:\Users\allen\Desktop\CSharp\LeetCode7\obj\Debug\netcoreapp3.1\LeetCode7.csprojAssemblyReference.cache
