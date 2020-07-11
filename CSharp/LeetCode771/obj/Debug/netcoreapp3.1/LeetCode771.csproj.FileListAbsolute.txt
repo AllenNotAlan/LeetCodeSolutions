@@ -1,0 +1,13 @@
+C:\Users\allen\Desktop\CSharp\LeetCode771\bin\Debug\netcoreapp3.1\LeetCode771.exe
+C:\Users\allen\Desktop\CSharp\LeetCode771\bin\Debug\netcoreapp3.1\LeetCode771.deps.json
+C:\Users\allen\Desktop\CSharp\LeetCode771\bin\Debug\netcoreapp3.1\LeetCode771.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\LeetCode771\bin\Debug\netcoreapp3.1\LeetCode771.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\LeetCode771\bin\Debug\netcoreapp3.1\LeetCode771.dll
+C:\Users\allen\Desktop\CSharp\LeetCode771\bin\Debug\netcoreapp3.1\LeetCode771.pdb
+C:\Users\allen\Desktop\CSharp\LeetCode771\obj\Debug\netcoreapp3.1\LeetCode771.csprojAssemblyReference.cache
+C:\Users\allen\Desktop\CSharp\LeetCode771\obj\Debug\netcoreapp3.1\LeetCode771.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\LeetCode771\obj\Debug\netcoreapp3.1\LeetCode771.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\LeetCode771\obj\Debug\netcoreapp3.1\LeetCode771.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\LeetCode771\obj\Debug\netcoreapp3.1\LeetCode771.dll
+C:\Users\allen\Desktop\CSharp\LeetCode771\obj\Debug\netcoreapp3.1\LeetCode771.pdb
+C:\Users\allen\Desktop\CSharp\LeetCode771\obj\Debug\netcoreapp3.1\LeetCode771.genruntimeconfig.cache
