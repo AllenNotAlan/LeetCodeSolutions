@@ -23,13 +23,38 @@ class Solution(object):
         # result = [i for i in numToString]
 
         # return result
-        numToString = ''.join([str(elem) for elem in num])
-        numToInt = str((int(numToString) + 1))
-        result = []
-        for i in numToInt:
-            result.append(int(i))
+        numToString = int(''.join([str(elem) for elem in num]))
+        numToInt = str(((numToString) + 1))
+        result = [int(i) for i in numToInt]
+        # for i in numToInt:
+        #     result.append(int(i))
         return result
 
+    def discussionSolution(self, digits):
+
+        n = len(digits)
+        for i in range(n-1, -1, -1):
+            if digits[i] < 9:
+                digits[i]+=1
+                return digits
+            digits[i] = 0
+
+        lst = []
+        for i in range(n+1):
+            lst.append(i)
+            lst[i] = 0
+        
+        lst[0] = 1
+        return lst
+        
+            
+
+
+        
+    #testing functions
     num = [1,2,3]
 
-    print(addOne(1,num))
+    # print(addOne(1,num)) #my submitted solution
+
+    print(discussionSolution(1, num))
+    
